@@ -1,1 +1,1 @@
-# detroit-blight
+# Read detroit-commentary.ipynb for project info
