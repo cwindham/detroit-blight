@@ -1,1 +1,1 @@
-Read *detroit-commentary.ipynb* for project info
+Read ***detroit-commentary.ipynb*** for project info
